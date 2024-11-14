@@ -1,0 +1,31 @@
+# Build artifacts
+*.o
+*.obj
+/build/
+
+# Compiled binaries
+/labmodular
+/ejecutable
+/fork_procesos
+/pipeCliente01
+/pipeServidor01
+/cliente
+/servidor
+/prod_cons_posix
+/clasico
+/transpuesta
+/programa
+/publicador
+/suscriptor
+/sistema
+
+# News-system runtime artifacts
+pipePSC
+pipeSSC
+
+# Benchmark results
+resultados_*.dat
+
+# OS noise
+.DS_Store
+Thumbs.db
